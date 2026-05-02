@@ -1,16 +1,16 @@
-# Josiah Onyeje — Backend Engineer
+# Josiah Onyeje — Backend Engineer (.NET Core | Fintech APIs)
 
-Backend engineer specializing in .NET Core, fintech integrations, and scalable APIs.  
-Experienced in building secure, high-performance systems for payments, data services, and enterprise applications.
+Backend Engineer specializing in .NET Core and fintech systems, with 6+ years building payment integrations and scalable APIs.  
+Experienced in developing secure, high-performance backend services for enterprise applications.
 
 ---
 
 ## 🚀 Tech Stack
 
 - **Languages:** C#, ASP.NET Core  
-- **Architecture:** REST APIs, Microservices  
-- **Database:** SQL Server, MySQL  
-- **Tools:** Git, Docker, Swagger  
+- **Architecture:** REST APIs, Microservices, Event-driven  
+- **Database:** SQL Server, MySQL,Redis  
+- **Tools:** Git, Docker, Swagger, Azure, CI/CD 
 - **Practices:** Clean Architecture, SOLID Principles, API Security  
 
 ---
@@ -24,8 +24,30 @@ Experienced in building secure, high-performance systems for payments, data serv
 - Backend System Design  
 
 ---
+## 📂 Featured Projects
+
+### 🔹 Fintech Integration & Data Services API  
+High-performance API for handling telecom and payment service integrations, including data plans and airtime purchases.
+
+- Built with ASP.NET Core using clean architecture principles  
+- Integrated with third-party providers with robust request/response validation  
+- Implemented error handling for provider-level failures (even on HTTP 200 responses)  
+- Designed for reliability, transaction logging, and failure recovery  
 
 
+
+### 🔹 Transaction Processing & Validation Engine  
+Backend service for processing and validating financial transactions across multiple external systems.
+
+- Advanced validation layer to prevent invalid or duplicate transactions  
+- Handles asynchronous workflows and background processing  
+- Structured logging and monitoring for traceability  
+- Designed to ensure consistency between internal state and external provider responses  
+
+## 🚀 Currently
+Open to remote contract and full-time opportunities (UK, EU, and global fintech).
+
+---
 ## 📫 Contact
 
 - Email: jocrossonyeje@gmail.com  
