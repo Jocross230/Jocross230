@@ -1,16 +1,38 @@
-## Hi there 👋
+# Josiah Onyeje — Backend Engineer
 
-<!--
-**Jocross230/Jocross230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer specializing in .NET Core, fintech integrations, and scalable APIs.  
+Experienced in building secure, high-performance systems for payments, data services, and enterprise applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Languages:** C#, ASP.NET Core  
+- **Architecture:** REST APIs, Microservices  
+- **Database:** SQL Server, MySQL  
+- **Tools:** Git, Docker, Swagger  
+- **Practices:** Clean Architecture, SOLID Principles, API Security  
+
+---
+
+## 💼 Areas of Expertise
+
+- Payment & API Integrations  
+- Data Processing & Validation  
+- Authentication & Authorization  
+- Error Handling & System Reliability  
+- Backend System Design  
+
+---
+
+
+## 📫 Contact
+
+- Email: jocrossonyeje@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/josiah-onyeje-b447a7261  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that solve real-world problems and scale efficiently.
