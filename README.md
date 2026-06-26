@@ -1,4 +1,4 @@
-# Josiah Onyeje — Backend Engineer (.NET Core | Fintech APIs)
+# Josiah Onyeje — Software Engineer (.NET Core | Fintech APIs)
 
 Backend Engineer specializing in .NET Core and fintech systems, with 5+ years building payment integrations and scalable APIs.  
 Experienced in developing secure, high-performance backend services for enterprise applications.
