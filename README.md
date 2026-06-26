@@ -1,17 +1,17 @@
 # Josiah Onyeje — Backend Engineer (.NET Core | Fintech APIs)
 
-Backend Engineer specializing in .NET Core and fintech systems, with 6+ years building payment integrations and scalable APIs.  
+Backend Engineer specializing in .NET Core and fintech systems, with 5+ years building payment integrations and scalable APIs.  
 Experienced in developing secure, high-performance backend services for enterprise applications.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Languages:** C#, ASP.NET Core  
+- **Languages:** C#, ASP.NET Core, ASP.NET MVC
 - **Architecture:** REST APIs, Microservices, Event-driven  
-- **Database:** SQL Server, MySQL,Redis  
-- **Tools:** Git, Docker, Swagger, Azure, CI/CD 
-- **Practices:** Clean Architecture, SOLID Principles, API Security  
+- **Database:** SQL Server, MySQL,Redis, PostgreSql  
+- **Tools:** Git, Docker, Swagger, Azure, CI/CD, Render, Postman
+- **Practices:** Clean Architecture, SOLID Principles, API Security, Repository Pattern, Software Design 
 
 ---
 
@@ -45,7 +45,7 @@ Backend service for processing and validating financial transactions across mult
 - Designed to ensure consistency between internal state and external provider responses  
 
 ## 🚀 Currently
-Open to remote contract and full-time opportunities (UK, EU, and global fintech).
+Open to remote contract and full-time opportunities (UK,USA,Canada, EU, and global fintech).
 
 ---
 ## 📫 Contact
