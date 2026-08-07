@@ -1,4 +1,4 @@
-# Josiah Onyeje — Software Engineer (.NET Core | Fintech APIs)
+# Josiah Onyeje — Software Engineer (C# (Asp.Net)| Java | Fintech APIs)
 
 Backend Engineer specializing in .NET Core and fintech systems, with 5+ years building payment integrations and scalable APIs.  
 Experienced in developing secure, high-performance backend services for enterprise applications.
@@ -7,11 +7,19 @@ Experienced in developing secure, high-performance backend services for enterpri
 
 ## 🚀 Tech Stack
 
-- **Languages:** C#, ASP.NET Core, ASP.NET MVC
-- **Architecture:** REST APIs, Microservices, Event-driven  
-- **Database:** SQL Server, MySQL,Redis, PostgreSql  
-- **Tools:** Git, Docker, Swagger, Azure, CI/CD, Render, Postman
-- **Practices:** Clean Architecture, SOLID Principles, API Security, Repository Pattern, Software Design 
+-**Languages:** C#, Java, SQL
+-**Frameworks:**  ASP.NET Core Web API, .NET Framework, ASP.NET MVC, Entity Framework Core, Dapper, LINQ, Spring Boot,Maven, Hibernate, Spring Data JPA,
+-**Architecture:** Microservices, Domain-Driven Design (DDD), Clean Architecture, SOLID Principles, CQRS, Repository Pattern, Unit of Work
+-**Databases:** SQL Server, PostgreSQL, MySQL, SQLite, Stored Procedures, Query Optimization, Database Design & Normalization
+-**Cloud & DevOps:** Microsoft Azure (App Services, Application Insights), AWS, Render, Docker, CI/CD, Git, GitHub
+-**Quality Engineering:** Unit Testing, Integration Testing, API Testing  (Postman)
+-**Observability:** Serilog, Health Checks, Structured Logging
+-**API Development:** RESTful API Design, Swagger/OpenAPI, Payment Gateway Integration
+-**Messaging & Event-Driven Architecture:** RabbitMQ, Apache Kafka
+-**Security & Authentication:** JWT Authentication, OAuth2, PGP Encryption & Decryption, Digital Signature Verification, Secure Key Management
+-**Working Methodology:** Agile/Scrum, Git-based code review workflows
+-**Frontend (Working Knowledge):** HTML, CSS, JavaScript, React.js, Vue.js
+-**Practices:** Clean Architecture, SOLID Principles, API Security, Repository Pattern, Software Design 
 
 ---
 
